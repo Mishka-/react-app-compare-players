@@ -1,0 +1,45 @@
+body{
+  background-color: #f2e3d2;
+}
+
+.playerTable{
+  width:200px;
+  border:1px solid black;
+  display:inline-block;
+  margin:30px;
+
+
+}
+ .playersInput{
+  width:150px;
+  float:left;
+  margin:10px;
+}
+
+.playersList {
+  border :1px solid black;
+  width:100px;
+  margin:10px;
+}
+
+.playersList td{
+  border:1px solid;
+}
+td{
+  text-align:center;
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.orange{
+  background-color:orange;
+}
+
+.cBtn{
+  top:-200px;
+  right:-135px;
+  position:relative;
+}
